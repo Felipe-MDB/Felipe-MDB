@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Olá me chamo Felipe Marques, atualmente sou estudando de Dev-FullStack Java, tenho conhecimento básico em HTML, CSS e JAVASCRIPT.
 <!--
 **Felipe-MDB/Felipe-MDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
